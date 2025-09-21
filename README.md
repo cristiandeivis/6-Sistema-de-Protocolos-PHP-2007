@@ -79,31 +79,37 @@ Essas anotações mostram que, mesmo sem ferramentas modernas de gestão de proj
 ## 📸 Prints do sistema
 
 ### Menu principal
-![Menu principal](Imagem%20001.png)
+<img width="1919" height="926" alt="Imagem 001" src="https://github.com/user-attachments/assets/1d008671-0f2a-4d5e-9ee8-9b94e3fa9c4e" />
+
 
 ### Cadastro de Empresas
-![Cadastro de Empresas](Imagem%20002.png)
+<img width="1919" height="927" alt="Imagem 002" src="https://github.com/user-attachments/assets/f8134eef-8448-445f-b33c-4d59fdea59e6" />
+
 
 ### Empresas Cadastradas
-![Lista de Empresas](Imagem%20003.png)
+<img width="1919" height="925" alt="Imagem 003" src="https://github.com/user-attachments/assets/9680fe9a-428f-4f72-b7f1-df2c22b6f75f" />
+
 
 ### Cadastro de Protocolos
-![Cadastro de Protocolos](Imagem%20004.png)
+<img width="1919" height="924" alt="Imagem 004" src="https://github.com/user-attachments/assets/588dda09-deef-4fb3-82bf-8b3a946a37d9" />
 
-### Busca de Empresas
-![Busca de Empresas](Imagem%20005.png)
+### Cadastro de Protocolos e Busca de Empresas
+<img width="1919" height="927" alt="Imagem 005" src="https://github.com/user-attachments/assets/1fd0a2a8-58cf-45d6-abcc-16e9a11471dc" />
 
 ### Alterar Protocolo
-![Alterar Protocolo](Imagem%20006.png)
+<img width="1919" height="925" alt="Imagem 006" src="https://github.com/user-attachments/assets/db3f68bf-376f-4215-95bc-f3705896861e" />
+
 
 ### Relatório Geral
-![Relatório Geral](Imagem%20007.png)
+<img width="1919" height="926" alt="Imagem 007" src="https://github.com/user-attachments/assets/7b786c14-d250-496e-a1ed-43cd9c1123ec" />
+
 
 ### Relatório Individual
-![Relatório Individual](Imagem%20008.png)
+<img width="1919" height="923" alt="Imagem 008" src="https://github.com/user-attachments/assets/d9e6a6f8-3f19-427b-9277-5ca38a6ec373" />
 
-### Protocolo Impresso
-![Protocolo Impresso](Imagem%20009.png)
+
+### Tela de impressão do Protocolo
+<img width="1919" height="927" alt="Imagem 009" src="https://github.com/user-attachments/assets/b2a0cc93-5a35-4c29-85de-3a20b4850532" />
 
 ---
 
