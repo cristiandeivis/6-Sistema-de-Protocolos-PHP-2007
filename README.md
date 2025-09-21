@@ -1,8 +1,8 @@
 # Sistema de Protocolos (PHP + MySQL | Intranet 2007)
 
-Este sistema foi desenvolvido em 2007 para o escritório que eu trabalhava à época com o objetivo de emitir protocolos de documentos para controle e assinatura pelas empresas, substituindo uma versão anterior que 
-rodava em **MS-DOS**. A aplicação foi baseada nesse sistema antigo, para trazer uma maior praticidade e autonomia aos usuários em um ambiente totalmente Web, rodando na intranet corporativa.  
-Vale destacar que foi meu primeiro grande projeto em PHP, feito de forma autodidata, na época existiam poucos tutoriais e a ajuda vinha basicamente de fóruns na internet. 
+Este sistema foi desenvolvido em 2007 para o escritório que eu trabalhava à época e tinha o objetivo de emitir protocolos dos documentos para o controle e posterior assinatura do recebimento pelas empresas, substituindo uma versão anterior que 
+rodava em **MS-DOS**. A aplicação foi baseada nesse sistema antigo, para trazer uma maior praticidade e autonomia aos usuários em um ambiente totalmente Web, rodando na intranet corporativa. Vale destacar que foi meu primeiro grande projeto em PHP, feito de forma autodidata, na época existiam poucos tutoriais e a ajuda vinha basicamente de fóruns na internet. 
+
 Além do back-end, precisei desenvolver também o front-end, acumulando aprendizados em várias camadas do sistema.
 
 Trata-se de um projeto legado, mantido neste repositório com fins documentais e como parte da minha trajetória de formação na área de TI.
@@ -116,12 +116,7 @@ Essas anotações mostram que, mesmo sem ferramentas modernas de gestão de proj
 ## Legado e inspiração para o futuro
 
 Este sistema foi a base para meu entendimento inicial sobre desenvolvimento web integrado a banco de dados.  
-Apesar de suas limitações técnicas e da obsolescência de algumas práticas, o aprendizado obtido aqui serviu como alicerce para minha evolução profissional.  
-
-Meus próximos passos envolvem:  
-- Recriar este sistema em tecnologias modernas (Python/Flask ou PHP com PDO).  
-- Adotar arquitetura em camadas (MVC) e boas práticas de segurança.  
-- Implementar interface responsiva usando frameworks atuais como Bootstrap ou Tailwind.  
+Apesar de suas limitações técnicas e da obsolescência de algumas práticas, serviu de aprendizado para minha evolução profissional.  
 
 ---
 
